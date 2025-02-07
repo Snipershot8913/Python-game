@@ -24,7 +24,8 @@ while running:
      player_X +=1
   if keys[pygame.K_d]:
      player_X -=1
-
+  print(player_X "," player_Y)
+  
   
   
 
